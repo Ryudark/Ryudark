@@ -1,29 +1,71 @@
-![Header](./github-header-image.png)
+<div align="center">
+    <img src="./github-header-image.png"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Juan Prado</h1>
-<h3 align="center">A passionate Full Stack Developer from Bolivia</h3>
+<h1 align="center">Hi 👋,Soy Steven Jaimes Galeano</h1>
+<h3 align="center">A passionate FullStack Developer from Colombia</h3>
 
 <p align="justify">I finished Henry Bootcamp and along with it, I learned a lot about web development. Now I am looking for an opportunity to continue a career in
 this field. I'm looking towards a future as a developer, and to pursue this path I will for sure learn more about many other technologies and develop other projects by myself. I am glad that you visited my profile. Welcome.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/juan prado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan prado" height="30" width="40" /></a>
-<a href="https://fb.com/juan prado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/juan.pradorojas/" height="30" width="40" /></a>
-<a href="https://instagram.com/@prado_96_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@prado_96_" height="30" width="40" /></a>
-</p>
-
-<p> But also you can reach me: at juan_prado_rojas@outlook.com</p>
+### - A little about me 🤔
+```javascript
+const ryudark = {
+    pronouns: "He" | "Him",
+    code: ["Javascript"],
+    askMeAbout: ["web dev", "tech", "anime", "videogames"],
+    technologies: {
+        frontEnd: {
+            js: ["React" , "Redux"],
+        },
+        backEnd: {
+            js: ["Node" , "Express"],
+        },
+        databases: {
+            sql: ["Sequalize" , "PosgreSql"],
+        },
+        mobile: {
+            js: ["React Native"],
+        },
+        tools: ["Terminal", "Visual Studio Code","Github", "Photoshop"]
+    },
+    techCommunities: {
+                        student: ["Henry", "No country"],
+                        employee: "Logistecsa",
+                        colaborator: "League of Extraordinary FoundryVTT Developers"
+    },
+    currentProject: "I`m improving my developing skills"
+};
+```
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<div style="display:flex;">
+<img src="./loc/css.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/html5.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/javascript.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/Node.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/express.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/Postgress.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/sequelize.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/webpack.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/react.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/redux.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/react-native.png" alt="drawing" style="width:50px;"/>
+<img src="./loc/Jest.png" alt="drawing" style="width:50px;"/>
+</div>
 
 <br/>
-<h3>More About me:</h3>
 
-<p align="justify"> I am a petroleum Engineer and a Chemical Engineering Student were I found a passion at programming, now I am willing to pursue a career with all the knowledge I adquire during this time, as now I know that I could help in many ways to those industries not only in their field but also in programming activities that companies usually perform.</p>
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/steven-jaimes-galeano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Steven Jaimes Galeano" height="30" width="40" /></a>
+<a href="https://www.facebook.com/suteben/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suteben/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/steven_jaimes_galeano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@Steven_jaimes" height="30" width="40" /></a>
+<a href="https://github.com/Ryudark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@Steven_jaimes" height="30" width="40" /></a>
+</p>
+
+<p> But also you can reach me: at steinu037@gmail.com</p>
 
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-prado&show_icons=true&locale=en&layout=compact" alt="j-prado" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryudark&show_icons=true&locale=en&layout=compact" alt="Steven-JG" /></p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=j-prado&label=Profile%20views&color=0e75b6&style=flat" alt="j-prado" /> </p>
