@@ -27,7 +27,7 @@ const ryudark = {
         mobile: {
             js: ["React Native"],
         },
-        tools: ["Terminal", "Visual Studio Code","Github", "Photoshop"]
+        tools: ["Terminal", "Visual Studio Code","Github"]
     },
     techCommunities: {
                         student: ["Henry", "No country"],
